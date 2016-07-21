@@ -16,6 +16,6 @@
         "php": ">=5.3.3"
     },
     "autoload": {
-        "psr-4": {"Zeng\\Ks3": "src/Ks3"}
+        "psr-4": {"Zeng\\Ks3\\": "src/Ks3"}
     }
 }

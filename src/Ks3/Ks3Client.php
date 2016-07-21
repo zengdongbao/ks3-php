@@ -1,6 +1,6 @@
 <?php
 
-namespace Ks3;
+namespace Zeng\Ks3;
 
 
 class Ks3Client
