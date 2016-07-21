@@ -1,0 +1,21 @@
+{
+    "name": "zengdongbao/ks3-php",
+    "type": "library",
+    "description": "KS3 unofficial sdk for composer",
+    "keywords": ["ks3", "storage", "sdk", "cloud"],
+    "homepage": "https://github.com/zengdongbao/ks3-php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zengdongbao",
+            "email": "zengdongbao@gmail",
+            "homepage": "https://github.com/zengdongbao"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-4": {"Zeng\\Ks3": "src/Ks3"}
+    }
+}
